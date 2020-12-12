@@ -27,7 +27,7 @@ public class cyk {
 	   System.out.println("suma rowna sie " +suma);
 	   System.out.println("max rowna sie " +max);
 	   System.out.println("min rowna sie " +min);
-	   System.out.println("nowa linijka i cos do tego");
+	   System.out.println("nowa linijka i cos do tego raz jeszcze");
 	}
 
 }
