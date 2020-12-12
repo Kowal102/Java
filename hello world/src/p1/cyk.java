@@ -24,9 +24,9 @@ public class cyk {
 		   
 		   System.out.println(tab[i]);
 	   }
-	   System.out.println("suma równa sie " +suma);
-	   System.out.println("max równa sie " +max);
-	   System.out.println("min równa sie " +min);
+	   System.out.println("suma rowna sie " +suma);
+	   System.out.println("max rowna sie " +max);
+	   System.out.println("min rowna sie " +min);
 	   System.out.println("nowa linijka i cos do tego");
 	}
 
