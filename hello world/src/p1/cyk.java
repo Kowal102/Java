@@ -24,10 +24,10 @@ public class cyk {
 		   
 		   System.out.println(tab[i]);
 	   }
-	   System.out.println("suma równa sie " +suma);
-	   System.out.println("max równa sie " +max);
-	   System.out.println("min równa sie " +min);
-	   System.out.println("nowa linijka");
+	   System.out.println("suma rÃ³wna sie " +suma);
+	   System.out.println("max rÃ³wna sie " +max);
+	   System.out.println("min rÃ³wna sie " +min);
+	   System.out.println("nowa linijka i cos do tego");
 	}
 
 }
